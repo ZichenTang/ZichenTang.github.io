@@ -22,7 +22,7 @@ I'm currently a MS. Student from [School of Computer Science (SCS)](https://scs.
 
 <!-- <img src='./images/bupt.png' style='width: 6em;'> -->
 
-My research interest includes domain-specific knowledge reasoning and multimodal large language model. I have published 5 papers at the top international AI conferences with total `<a href='https://scholar.google.com/citations?user=aRCZ6dMAAAAJ'>`google scholar citations `<strong><span id='total_cit'>`100+`</strong></a>`.
+My research interest includes domain-specific knowledge reasoning and multimodal large language model. I have published 5 papers at the top international AI conferences such as ACL, NeurIPS, AAAI, with total `<a href='https://scholar.google.com/citations?user=aRCZ6dMAAAAJ'>`google scholar citations `<strong><span id='total_cit'>`100+`</span></strong></a>`.
 
 If you are seeking any form of **academic cooperation**, please feel free to email me with [tangzichen@bupt.edu.cn](mailto:tangzichen@bupt.edu.cn)\.
 
