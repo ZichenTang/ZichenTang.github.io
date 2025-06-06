@@ -52,7 +52,9 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 # 🎖 Honors and Awards
 
-- *2024.10* National Scholarship for Excellent MS. Students.
+- *2024.10* National Scholarship for Excellent MS. Students. (Top 2%)
+- *2022.10* National Scholarship for Excellent Undergraduate Students. (Top 1%)
+- *2020.10* National Scholarship for Excellent Undergraduate Students. (Top 1%)
 
 # 📖 Educations
 

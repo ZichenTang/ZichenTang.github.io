@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zichen Tang <br/> 汤子辰"
-  avatar           : "images/tangzichen.jpg"
+  avatar           : "images/tangzichen.png"
   bio              : "MS. Student @ <br/> BUPT"
   location         : "Beijing, China"
   employer         :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
