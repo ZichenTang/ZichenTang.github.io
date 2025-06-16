@@ -37,7 +37,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/FinanceReasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FinanceReasoning: Benchmarking Financial Numerical Reasoning More Credible, Comprehensive and Challenging](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[FinanceReasoning: Benchmarking Financial Numerical Reasoning More Credible, Comprehensive and Challenging](https://arxiv.org/pdf/2506.05828)
 
 **Zichen Tang**, Haihong E*, Ziyan Ma, Haoyang He, Jiacheng Liu, Zhongjun Yang, Zihua Rong, Rongjin Li, Kun Ji, Qing Huang, Xinyang Hu, Yang Liu, Qianhe Zheng
 
