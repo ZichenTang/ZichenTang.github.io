@@ -22,7 +22,7 @@ I'm currently a MS. Student from [School of Computer Science (SCS)](https://scs.
 
 <!-- <img src='./images/bupt.png' style='width: 6em;'> -->
 
-My research interest includes domain-specific knowledge reasoning and multimodal large language model. I have published 5 papers at the top international AI conferences such as ACL, NeurIPS, AAAI, with total <a href='https://scholar.google.com/citations?user=aRCZ6dMAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a>.
+My research interest includes domain-specific knowledge reasoning and multimodal large language model. I have published 6 papers at the top international AI conferences such as ACL, ICCV, NeurIPS, AAAI, with total <a href='https://scholar.google.com/citations?user=aRCZ6dMAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a>.
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
@@ -30,6 +30,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 # 🔥 News
 
+- *2025.06*: &nbsp;🎉 One paper is accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉 One paper is accepted by ACL 2025.
 
 # 📝 Publications
@@ -48,13 +49,27 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/FinMMR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+FinMMR: Benchmarking Financial Numerical Reasoning More Multimodal, Comprehensive, and Challenging
+
+**Zichen Tang**, Haihong E*, Jiacheng Liu, Zhongjun Yang, Rongjin Li, Zihua Rong, Haoyang He, Zhuodi Hao, Xinyang Hu, Kun Ji, Ziyan Ma, Mengyuan Ji, Jun Zhang, Chenghao Ma, Qianhe Zheng, Yang Liu, Yiling Huang, Xinyi Hu, Qing Huang, Zijian Xie, Shiyao Peng
+
+[**Project**](in preparation)
+
+- We present FinMMR, a novel bilingual multimodal benchmark, spanning 14 subdomains and diverse chart types, aiming to advance MLLMs' real-world financial reasoning capabilities.
+
+</div>
+</div>
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 
-- *2024.10* National Scholarship for Excellent MS. Students. (Top 2%)
-- *2022.10* National Scholarship for Excellent Undergraduate Students. (Top 1%)
-- *2020.10* National Scholarship for Excellent Undergraduate Students. (Top 1%)
+- *2024.12* National Scholarship for Excellent MS. Students. (Top 2%)
+- *2022.12* National Scholarship for Excellent Undergraduate Students. (Top 1%)
+- *2020.12* National Scholarship for Excellent Undergraduate Students. (Top 1%)
 
 # 📖 Educations
 
@@ -65,7 +80,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 # 💬 Invited Talks
 
-- *2025.06*, Paper Topic Sharing @ ICML & ACL 2025, NICE talk.
+- *2025.06*, [Paper Topic Sharing @ ICML & ACL 2025, NICE talk](https://www.bilibili.com/video/BV1WUNvzNEnB?spm_id_from=333.788.videopod.episodes&vd_source=644c9c012fee7e70aeb6b3af98c5f6b5&p=2).
 
 <!-- # 💻 Internships
 
