@@ -49,7 +49,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/FinMMR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/FinMMR2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FinMMR: Benchmarking Financial Numerical Reasoning More Multimodal, Comprehensive, and Challenging
