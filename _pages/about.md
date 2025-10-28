@@ -42,9 +42,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 **Zichen Tang**, Haihong E*, Ziyan Ma, Haoyang He, Jiacheng Liu, Zhongjun Yang, Zihua Rong, Rongjin Li, Kun Ji, Qing Huang, Xinyang Hu, Yang Liu, Qianhe Zheng
 
-[**Project**](https://bupt-reasoning-lab.github.io/FinanceReasoning/)
-
-[**Presentation**](https://www.youtube.com/watch?v=DXNsPlvmzs8&t=4s)
+[**Project**](https://bupt-reasoning-lab.github.io/FinanceReasoning/) [**Presentation**](https://www.youtube.com/watch?v=DXNsPlvmzs8&t=4s)
 
 - We present FinanceReasoning, a new benchmark for evaluating large reasoning models (LRMs) in financial numerical reasoning, featuring enhanced rigor and an open-source function library.
 
@@ -58,9 +56,7 @@ FinMMR: Benchmarking Financial Numerical Reasoning More Multimodal, Comprehensiv
 
 **Zichen Tang**, Haihong E*, Jiacheng Liu, Zhongjun Yang, Rongjin Li, Zihua Rong, Haoyang He, Zhuodi Hao, Xinyang Hu, Kun Ji, Ziyan Ma, Mengyuan Ji, Jun Zhang, Chenghao Ma, Qianhe Zheng, Yang Liu, Yiling Huang, Xinyi Hu, Qing Huang, Zijian Xie, Shiyao Peng
 
-[**Project**](https://bupt-reasoning-lab.github.io/FinMMR/)
-
-[**Presentation**](https://www.youtube.com/watch?v=Wfqe1NnOmAQ)
+[**Project**](https://bupt-reasoning-lab.github.io/FinMMR/) [**Presentation**](https://www.youtube.com/watch?v=Wfqe1NnOmAQ)
 
 - We present FinMMR, a novel bilingual multimodal benchmark, spanning 14 subdomains and diverse chart types, aiming to advance MLLMs' real-world financial reasoning capabilities.
 
