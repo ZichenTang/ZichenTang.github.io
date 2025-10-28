@@ -38,7 +38,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/FinanceReasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FinanceReasoning: Benchmarking Financial Numerical Reasoning More Credible, Comprehensive and Challenging](https://arxiv.org/pdf/2506.05828)
+[FinanceReasoning: Benchmarking Financial Numerical Reasoning More Credible, Comprehensive and Challenging](https://aclanthology.org/2025.acl-long.766.pdf)
 
 **Zichen Tang**, Haihong E*, Ziyan Ma, Haoyang He, Jiacheng Liu, Zhongjun Yang, Zihua Rong, Rongjin Li, Kun Ji, Qing Huang, Xinyang Hu, Yang Liu, Qianhe Zheng
 
@@ -52,7 +52,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/FinMMR2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-FinMMR: Benchmarking Financial Numerical Reasoning More Multimodal, Comprehensive, and Challenging
+[FinMMR: Benchmarking Financial Numerical Reasoning More Multimodal, Comprehensive, and Challenging](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_FinMMR_Make_Financial_Numerical_Reasoning_More_Multimodal_Comprehensive_and_Challenging_ICCV_2025_paper.pdf)
 
 **Zichen Tang**, Haihong E*, Jiacheng Liu, Zhongjun Yang, Rongjin Li, Zihua Rong, Haoyang He, Zhuodi Hao, Xinyang Hu, Kun Ji, Ziyan Ma, Mengyuan Ji, Jun Zhang, Chenghao Ma, Qianhe Zheng, Yang Liu, Yiling Huang, Xinyi Hu, Qing Huang, Zijian Xie, Shiyao Peng
 
