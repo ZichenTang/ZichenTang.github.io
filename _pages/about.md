@@ -18,7 +18,7 @@ redirect_from:
 
 # 🚩 About Me
 
-I'm currently a MS. Student from [School of Computer Science (SCS)](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), supervised by [Prof. Haihong E](https://teacher.bupt.edu.cn/ehaihong/zh_CN/index.htm). Before that, I received the bachelor degree at [School of Computer Science (SCS)](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2023.
+I'm currently a PhD Student from [School of Computer Science (SCS)](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), supervised by [Prof. Haihong E](https://teacher.bupt.edu.cn/ehaihong/zh_CN/index.htm). Before that, I received the bachelor degree at [School of Computer Science (SCS)](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2023.
 
 <!-- <img src='./images/bupt.png' style='width: 6em;'> -->
 
@@ -44,6 +44,8 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 [**Project**](https://bupt-reasoning-lab.github.io/FinanceReasoning/)
 
+[**Presentation**](https://www.youtube.com/watch?v=DXNsPlvmzs8&t=4s)
+
 - We present FinanceReasoning, a new benchmark for evaluating large reasoning models (LRMs) in financial numerical reasoning, featuring enhanced rigor and an open-source function library.
 
 </div>
@@ -56,7 +58,9 @@ FinMMR: Benchmarking Financial Numerical Reasoning More Multimodal, Comprehensiv
 
 **Zichen Tang**, Haihong E*, Jiacheng Liu, Zhongjun Yang, Rongjin Li, Zihua Rong, Haoyang He, Zhuodi Hao, Xinyang Hu, Kun Ji, Ziyan Ma, Mengyuan Ji, Jun Zhang, Chenghao Ma, Qianhe Zheng, Yang Liu, Yiling Huang, Xinyi Hu, Qing Huang, Zijian Xie, Shiyao Peng
 
-[**Project**](in preparation)
+[**Project**](https://bupt-reasoning-lab.github.io/FinMMR/)
+
+[**Presentation**](https://www.youtube.com/watch?v=Wfqe1NnOmAQ)
 
 - We present FinMMR, a novel bilingual multimodal benchmark, spanning 14 subdomains and diverse chart types, aiming to advance MLLMs' real-world financial reasoning capabilities.
 
@@ -73,14 +77,18 @@ FinMMR: Benchmarking Financial Numerical Reasoning More Multimodal, Comprehensiv
 
 # 📖 Educations
 
-- *2023.09 - 2025.06 (now)*, Master, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing.
+- *2023.09 - 2025.10 (now)*, PhD student, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing.
 - *2018.09 - 2023.06*, Undergraduate, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing.
 - *2015.09 - 2018.06*: High school student, No.1 Middle School, Xuzhou, Jiangsu Province.
 
 
 # 💬 Invited Talks
 
-- *2025.06*, [Paper Topic Sharing @ ICML & ACL 2025, NICE talk](https://www.bilibili.com/video/BV1WUNvzNEnB?spm_id_from=333.788.videopod.episodes&vd_source=644c9c012fee7e70aeb6b3af98c5f6b5&p=2).
+- *2025.10*, [Paper Topic Sharing @ ICCV 2025, AI TIME](https://www.bilibili.com/video/BV1kv4Jz5Emg/).
+
+- *2025.08*, [Paper Topic Sharing @ ICCV 2025, NICE talk](https://www.bilibili.com/video/BV19EeyzmENK/).
+
+- *2025.06*, [Paper Topic Sharing @ ICML & ACL 2025, NICE talk](https://www.bilibili.com/video/BV1WUNvzNEnB?spm_id_from=333.788.videopod.episodes&p=2).
 
 <!-- # 💻 Internships
 
