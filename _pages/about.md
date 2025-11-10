@@ -41,7 +41,7 @@ FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, 
 
 **Zichen Tang**, Haihong E*, Rongjin Li, Jiacheng Liu, Linwei Jia, Zhuodi Hao, Zhongjun Yang, Yuanze Li, Haolin Tian, Xinyi Hu, Peizhi Zhao, Yuan Liu, Zhengyu Wang, Xianghe Wang, Yiling Huang, Xueyuan Lin, Ruofei Bai, Zijian Xie, Qian Huang, Ruining Cao, Haocheng Gao
 
-[**Project**](Coming soon) [**Presentation**](Coming soon)
+**Project** (Coming soon) **Presentation** (Coming soon)
 
 - We present FinMMDocR, a new bilingual multimodal benchmark for evaluating MLLMs in financial numerical reasoning, featuring real-world scenarios, visually-rich documents, and multi-step computations.
 
