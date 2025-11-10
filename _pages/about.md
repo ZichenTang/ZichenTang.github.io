@@ -22,29 +22,28 @@ I'm currently a PhD Student from [School of Computer Science (SCS)](https://scs.
 
 <!-- <img src='./images/bupt.png' style='width: 6em;'> -->
 
-My research interest includes domain-specific knowledge reasoning and multimodal large language model. I have published 6 papers at the top international AI conferences such as ACL, ICCV, NeurIPS, AAAI, with total <a href='https://scholar.google.com/citations?user=aRCZ6dMAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a>.
+My research interest includes domain-specific knowledge reasoning and multimodal large language model. I have published 7 papers at the top international AI conferences such as ACL, ICCV, NeurIPS, AAAI, with total <a href='https://scholar.google.com/citations?user=aRCZ6dMAAAAJ'>google scholar citations <strong><span id='total_cit'>190+</span></strong></a>.
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 If you are seeking any form of **academic cooperation**, please feel free to email me with [tangzichen@bupt.edu.cn](mailto:tangzichen@bupt.edu.cn)\.
 
 # 🔥 News
-
+- *2025.11*: &nbsp;🎉 One paper is accepted by AAAI 2026.
 - *2025.06*: &nbsp;🎉 One paper is accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉 One paper is accepted by ACL 2025.
 
 # 📝 Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/FinanceReasoning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/FinMMDocR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FinanceReasoning: Benchmarking Financial Numerical Reasoning More Credible, Comprehensive and Challenging](https://aclanthology.org/2025.acl-long.766.pdf)
+FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, Document Understanding, and Multi-Step Computation
 
-**Zichen Tang**, Haihong E*, Ziyan Ma, Haoyang He, Jiacheng Liu, Zhongjun Yang, Zihua Rong, Rongjin Li, Kun Ji, Qing Huang, Xinyang Hu, Yang Liu, Qianhe Zheng
+**Zichen Tang**, Haihong E*, Rongjin Li, Jiacheng Liu, Linwei Jia, Zhuodi Hao, Zhongjun Yang, Yuanze Li, Haolin Tian, Xinyi Hu, Peizhi Zhao, Yuan Liu, Zhengyu Wang, Xianghe Wang, Yiling Huang, Xueyuan Lin, Ruofei Bai, Zijian Xie, Qian Huang, Ruining Cao, Haocheng Gao
 
-[**Project**](https://bupt-reasoning-lab.github.io/FinanceReasoning/) [**Presentation**](https://www.youtube.com/watch?v=DXNsPlvmzs8&t=4s)
+[**Project**](Coming soon) [**Presentation**](Coming soon)
 
-- We present FinanceReasoning, a new benchmark for evaluating large reasoning models (LRMs) in financial numerical reasoning, featuring enhanced rigor and an open-source function library.
+- We present FinMMDocR, a new bilingual multimodal benchmark for evaluating MLLMs in financial numerical reasoning, featuring real-world scenarios, visually-rich documents, and multi-step computations.
 
 </div>
 </div>
@@ -59,6 +58,20 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 [**Project**](https://bupt-reasoning-lab.github.io/FinMMR/) [**Presentation**](https://www.youtube.com/watch?v=Wfqe1NnOmAQ)
 
 - We present FinMMR, a novel bilingual multimodal benchmark, spanning 14 subdomains and diverse chart types, aiming to advance MLLMs' real-world financial reasoning capabilities.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/FinanceReasoning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FinanceReasoning: Benchmarking Financial Numerical Reasoning More Credible, Comprehensive and Challenging](https://aclanthology.org/2025.acl-long.766.pdf)
+
+**Zichen Tang**, Haihong E*, Ziyan Ma, Haoyang He, Jiacheng Liu, Zhongjun Yang, Zihua Rong, Rongjin Li, Kun Ji, Qing Huang, Xinyang Hu, Yang Liu, Qianhe Zheng
+
+[**Project**](https://bupt-reasoning-lab.github.io/FinanceReasoning/) [**Presentation**](https://www.youtube.com/watch?v=DXNsPlvmzs8&t=4s)
+
+- We present FinanceReasoning, a new benchmark for evaluating large reasoning models (LRMs) in financial numerical reasoning, featuring enhanced rigor and an open-source function library.
 
 </div>
 </div>
