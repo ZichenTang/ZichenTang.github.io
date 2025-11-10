@@ -51,7 +51,7 @@ FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/FinMMR2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FinMMR: Benchmarking Financial Numerical Reasoning More Multimodal, Comprehensive, and Challenging](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_FinMMR_Make_Financial_Numerical_Reasoning_More_Multimodal_Comprehensive_and_Challenging_ICCV_2025_paper.pdf)
+[FinMMR: Make Financial Numerical Reasoning More Multimodal, Comprehensive, and Challenging](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_FinMMR_Make_Financial_Numerical_Reasoning_More_Multimodal_Comprehensive_and_Challenging_ICCV_2025_paper.pdf)
 
 **Zichen Tang**, Haihong E*, Jiacheng Liu, Zhongjun Yang, Rongjin Li, Zihua Rong, Haoyang He, Zhuodi Hao, Xinyang Hu, Kun Ji, Ziyan Ma, Mengyuan Ji, Jun Zhang, Chenghao Ma, Qianhe Zheng, Yang Liu, Yiling Huang, Xinyi Hu, Qing Huang, Zijian Xie, Shiyao Peng
 
