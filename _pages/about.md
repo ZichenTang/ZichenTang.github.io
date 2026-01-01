@@ -29,6 +29,7 @@ My research interest includes domain-specific knowledge reasoning and multimodal
 If you are seeking any form of **academic cooperation**, please feel free to email me with [tangzichen@bupt.edu.cn](mailto:tangzichen@bupt.edu.cn)\.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉 Successfully selected for the CAST Young Science and Technology Talent Cultivation Program (Special Program for Doctoral Students).
 - *2025.11*: &nbsp;🎉 One paper is accepted by AAAI 2026.
 - *2025.06*: &nbsp;🎉 One paper is accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉 One paper is accepted by ACL 2025.
