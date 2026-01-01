@@ -22,7 +22,7 @@ I'm currently a PhD Student from [School of Computer Science (SCS)](https://scs.
 
 <!-- <img src='./images/bupt.png' style='width: 6em;'> -->
 
-My research interest includes domain-specific knowledge reasoning and multimodal large language model. I have published 7 papers at the top international AI conferences such as ACL, ICCV, NeurIPS, AAAI, with total <a href='https://scholar.google.com/citations?user=aRCZ6dMAAAAJ'>google scholar citations <strong><span id='total_cit'>190+</span></strong></a>.
+My research interest includes domain-specific knowledge reasoning and multimodal large language model. I have published 7 papers at the top international AI conferences such as ACL, ICCV, NeurIPS, AAAI, with total <a href='https://scholar.google.com/citations?user=aRCZ6dMAAAAJ'>google scholar citations <strong><span id='total_cit'>220+</span></strong></a>.
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
@@ -37,11 +37,11 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/FinMMDocR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, Document Understanding, and Multi-Step Computation
+[FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, Document Understanding, and Multi-Step Computation](https://arxiv.org/pdf/2512.24903)
 
 **Zichen Tang**, Haihong E*, Rongjin Li, Jiacheng Liu, Linwei Jia, Zhuodi Hao, Zhongjun Yang, Yuanze Li, Haolin Tian, Xinyi Hu, Peizhi Zhao, Yuan Liu, Zhengyu Wang, Xianghe Wang, Yiling Huang, Xueyuan Lin, Ruofei Bai, Zijian Xie, Qian Huang, Ruining Cao, Haocheng Gao
 
-**Project** (Coming soon) **Presentation** (Coming soon)
+[**Project**](https://bupt-reasoning-lab.github.io/FinMMDocR/) **Presentation** (Coming soon)
 
 - We present FinMMDocR, a new bilingual multimodal benchmark for evaluating MLLMs in financial numerical reasoning, featuring real-world scenarios, visually-rich documents, and multi-step computations.
 
@@ -79,7 +79,7 @@ FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-
+- *2025.12* China Association for Science and Technology (CAST) Young Science and Technology Talent Cultivation Program (Special Program for Doctoral Students). (Top 0.5%)
 - *2024.12* National Scholarship for Excellent MS. Students. (Top 2%)
 - *2022.12* National Scholarship for Excellent Undergraduate Students. (Top 1%)
 - *2020.12* National Scholarship for Excellent Undergraduate Students. (Top 1%)
