@@ -14,6 +14,13 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<div style="margin: 1.2em 0 1.6em 0; padding: 1em 1.2em; border: 2px solid #d97706; border-radius: 10px; background: #fff7ed; text-align: center;">
+  <strong style="font-size: 1.15em;">📄 Curriculum Vitae (CV)</strong><br>
+  <a href="/zichen_tang_cv.pdf" download style="display: inline-block; margin-top: 0.6em; padding: 0.5em 1em; background: #d97706; color: #ffffff; border-radius: 6px; text-decoration: none; font-weight: 600;">
+    Download My CV
+  </a>
+</div>
+
 <span class='anchor' id='about-me'></span>
 
 # 🚩 About Me
@@ -22,13 +29,16 @@ I'm currently a PhD Student from [School of Computer Science (SCS)](https://scs.
 
 <!-- <img src='./images/bupt.png' style='width: 6em;'> -->
 
-My research interest includes domain-specific knowledge reasoning and multimodal large language model. I have published 7 papers at the top international AI conferences such as ACL, ICCV, NeurIPS, AAAI, with total <a href='https://scholar.google.com/citations?user=aRCZ6dMAAAAJ'>google scholar citations <strong><span id='total_cit'>220+</span></strong></a>.
+My research interest includes domain-specific knowledge reasoning and multimodal large language model. I have published 13 papers at the top international AI conferences such as ACL, ICCV, NeurIPS, ICLR,AAAI, WWW, with total <a href='https://scholar.google.com/citations?user=aRCZ6dMAAAAJ'>google scholar citations <strong><span id='total_cit'>270+</span></strong></a>.
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 If you are seeking any form of **academic cooperation**, please feel free to email me with [tangzichen@bupt.edu.cn](mailto:tangzichen@bupt.edu.cn)\.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉🎉 Three papers are accepted by ACL 2026 (Main Conference: 2 & Findings: 1).
+- *2026.02*: &nbsp;🎉 One paper is accepted by WWW 2026.
+- *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2026.
 - *2025.12*: &nbsp;🎉 Successfully selected for the CAST Young Science and Technology Talent Cultivation Program (Special Program for Doctoral Students).
 - *2025.11*: &nbsp;🎉 One paper is accepted by AAAI 2026.
 - *2025.06*: &nbsp;🎉 One paper is accepted by ICCV 2025.
@@ -38,11 +48,11 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/FinMMDocR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, Document Understanding, and Multi-Step Computation](https://arxiv.org/pdf/2512.24903)
+[FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, Document Understanding, and Multi-Step Computation](https://ojs.aaai.org/index.php/AAAI/article/view/39785)
 
 **Zichen Tang**, Haihong E*, Rongjin Li, Jiacheng Liu, Linwei Jia, Zhuodi Hao, Zhongjun Yang, Yuanze Li, Haolin Tian, Xinyi Hu, Peizhi Zhao, Yuan Liu, Zhengyu Wang, Xianghe Wang, Yiling Huang, Xueyuan Lin, Ruofei Bai, Zijian Xie, Qian Huang, Ruining Cao, Haocheng Gao
 
-[**Project**](https://bupt-reasoning-lab.github.io/FinMMDocR/) **Presentation** (Coming soon)
+[**Project**](https://bupt-reasoning-lab.github.io/FinMMDocR/) [**Presentation**](https://www.youtube.com/watch?v=FaLv2aZEAAE)
 
 - We present FinMMDocR, a new bilingual multimodal benchmark for evaluating MLLMs in financial numerical reasoning, featuring real-world scenarios, visually-rich documents, and multi-step computations.
 
